@@ -1,6 +1,7 @@
-## Hepsi - Belli sirada degil simdilik
+## Hepsi – Yazıyı yazma sırasında şimdilik
 
 
 - [hala-caliyor](https://donme-blog.github.io/hala-caliyor/)
-- [_fedakar.](https://donme-blog.github.io/_fedakar./)
 - [donmenin-yemini](https://donme-blog.github.io/donmenin-yemini/)
+- [_fedakar.](https://donme-blog.github.io/_fedakar./)
+- [Babama-iftira](https://donme-blog.github.io/Babama-iftira/)
