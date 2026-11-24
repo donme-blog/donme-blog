@@ -1,6 +1,7 @@
 ## Hepsi – Yazıyı yazma sırasında şimdilik
 
 
+- [bazi_asamalar.](https://donme-blog.github.io/bazi_asamalar./)
 - [soylem-degisikligi](https://donme-blog.github.io/soylem-degisikligi/)
 - [hala-caliyor](https://donme-blog.github.io/hala-caliyor/)
 - [donmenin-yemini](https://donme-blog.github.io/donmenin-yemini/)
